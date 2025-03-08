@@ -1,4 +1,4 @@
-### Hi there 👋  
+### Yo! 👋  
 I'm Juhyeok!  
 
 - 🎓 I majored in **Statistics** and I'm interested in **Data Analysis**.  
@@ -15,14 +15,4 @@ I'm Juhyeok!
 ### 🚀 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hjuhyeok&show_icons=true&theme=dark)
 
----
-### 📈 GitHub Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hjuhyeok&theme=react)
 
----
-### 📊 GitHub Metrics
-![GitHub Metrics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hjuhyeok&theme=github_dark)
-
----
-### 👀 Visitors
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=hjuhyeok)
