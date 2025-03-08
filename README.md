@@ -1,11 +1,13 @@
-### Yo! 👋  
+### Yo! 👋 
 I'm Juhyeok!  
+
 ---
 - 🎓 I majored in **Statistics** and I'm interested in **Data Analysis**.  
 - 🏃 I enjoy **various sports activities**.  
 - 📊 I love working with **Machine Learning, Imbalanced data, and Generative model**.  
 - 🌱 Currently learning **Python & R for data science**.  
-- ✨ Looking for **new opportunities in Data Analytics & Business Intelligence**.  
+- ✨ Looking for **new opportunities in Data Analytics & Business Intelligence**.
+
 ---
 ## 💼 Experience
 ### 🏢 이노포스트 | 컨설팅사업본부 사원  
@@ -13,27 +15,19 @@ I'm Juhyeok!
 📍 주요 업무:
 - 📊 **보행안전지수 개발 및 시각화**  
 - 📌 **신상품 온고잉 의사결정 지원**
-
-
+  
+---
 ## 🎓 Internships & Research Experience
 
 ### 🏢 연세대학교 바른 ICT 연구소 | 인턴  
 📅 2023.11 ~ 2024.10 (11개월)  
 📍 **데이터 분석 & 악성댓글 비용 시뮬레이터 개발**  
 
----
-
 ### 🏢 연세대학교 데이터사이언스 연구소
 📅 2023.09 ~ 2024.02 (6개월)  
 📍 **통계적 분석 기법을 활용한 의사결정 시스템 구축 지원**  
 
-
-
-
-
-
-
-
+---
 ## 🏆 Certifications
 - 📜 **워드프로세서** - 대한상공회의소 (취득일: 2020.09.18)
 - 📜 **사회 조사 분석사 2급** - 한국산업인력공단 (취득일: 2020.12.31)
@@ -42,8 +36,6 @@ I'm Juhyeok!
 - 📜 **품질경영기사** - 한국산업인력공단 (취득일: 2022.06.17)
 - 📜 **SQL 개발자(SQLD)** - 한국데이터산업진흥원 (취득일: 2022.09.30)
 - 📜 **빅데이터 분석기사** - 한국데이터산업진흥원 (취득일: 2022.12.23)
-
-
 
 ---
 ### 📊 Most Used Languages
