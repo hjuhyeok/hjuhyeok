@@ -1,12 +1,12 @@
 ### Yo! 👋  
 I'm Juhyeok!  
-
+---
 - 🎓 I majored in **Statistics** and I'm interested in **Data Analysis**.  
 - 🏃 I enjoy **various sports activities**.  
 - 📊 I love working with **Machine Learning, Imbalanced data, and Generative model**.  
 - 🌱 Currently learning **Python & R for data science**.  
 - ✨ Looking for **new opportunities in Data Analytics & Business Intelligence**.  
-
+---
 ## 💼 Experience
 ### 🏢 이노포스트 | 컨설팅사업본부 사원  
 📅 2022.07 ~ 2022.11 (5개월)  
