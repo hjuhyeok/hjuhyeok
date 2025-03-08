@@ -9,13 +9,8 @@
 
 ---
 ## 🎓 Education
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Chungbuk_National_University_emblem.svg/120px-Chungbuk_National_University_emblem.svg.png" width="100">
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Yonsei_University_Emblem.svg/120px-Yonsei_University_Emblem.svg.png" width="100">
-</p>
-
-- **BS, Chungbuk National University**  
-- **MS, Yonsei University**
+- **Bachelor's Degree** | Department of Statistics, Chungbuk National University  
+- **Master's Degree** | Department of Statistical Data Science, Yonsei University
 
 
 ---
