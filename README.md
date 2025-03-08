@@ -31,16 +31,6 @@
 📍 **통계적 분석 기법을 활용한 의사결정 시스템 구축 지원**  
 
 ---
-## 🛠️ Tech Stack (Tools I Use)
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white">
-  <img src="https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white">
-</p>
-
----
 ## 🏆 Certifications
 - 📜 **워드프로세서** - 대한상공회의소 (취득일: 2020.09.18)
 - 📜 **사회 조사 분석사 2급** - 한국산업인력공단 (취득일: 2020.12.31)
@@ -65,15 +55,26 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hjuhyeok&show_icons=true&theme=dark)
 
 ---
+## 🛠️ Tech Stack (Tools I Use)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white">
+  <img src="https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white">
+</p>
+---
 ## 📫 Contact Me
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:wngur2670@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/%EC%A3%BC%ED%98%81-%ED%97%88-aa7604256/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/hjuhyeok">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
   </a>
 </p>
+
+
