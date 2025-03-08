@@ -1,21 +1,28 @@
-## Hi there 👋
-I'm Juhyeok! 
+### Hi there 👋  
+I'm Juhyeok!  
 
-- 🎓 I majored in **Statistics** and I'm interested in **Data Analysis**.
-- 🏃 I enjoy **various sports activities**.
-- 📊 I love working with **Machine Learning, Imbalanced data and Generative model**.
-- 🌱 Currently learning **Python & R for data science**.
-- ✨ Looking for **new opportunities in Data Analytics & Business Intelligence**.
-
----
-### 🛠️ Tech Stack 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+- 🎓 I majored in **Statistics** and I'm interested in **Data Analysis**.  
+- 🏃 I enjoy **various sports activities**.  
+- 📊 I love working with **Machine Learning, Imbalanced data, and Generative model**.  
+- 🌱 Currently learning **Python & R for data science**.  
+- ✨ Looking for **new opportunities in Data Analytics & Business Intelligence**.  
 
 ---
-### 📫 How to reach me:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:wngur2670@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+### 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjuhyeok&layout=compact&theme=dark)
 
+---
+### 🚀 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hjuhyeok&show_icons=true&theme=dark)
+
+---
+### 📈 GitHub Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hjuhyeok&theme=react)
+
+---
+### 📊 GitHub Metrics
+![GitHub Metrics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hjuhyeok&theme=github_dark)
+
+---
+### 👀 Visitors
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=hjuhyeok)
