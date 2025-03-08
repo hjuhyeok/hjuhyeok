@@ -1,5 +1,4 @@
-### Yo! 👋 
-I'm Juhyeok!  
+### Yo! I'm Juhyeok!  👋 
 
 ---
 - 🎓 I majored in **Statistics** and I'm interested in **Data Analysis**.  
