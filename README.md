@@ -8,6 +8,12 @@
 - ✨ Looking for **new opportunities in Data Analytics & Business Intelligence**.
 
 ---
+## 🎓 Education
+- **Bachelor's Degree** | Department of Statistics, Chungbuk National University  
+- **Master's Degree** | Department of Statistical Data Science, Yonsei University
+
+
+---
 ## 💼 Experience
 ### 🏢 이노포스트 | 컨설팅사업본부 사원  
 📅 2022.07 ~ 2022.11 (5개월)  
