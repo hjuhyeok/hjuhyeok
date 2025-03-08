@@ -12,7 +12,6 @@
 - **Bachelor's Degree** | Department of Statistics, Chungbuk National University  
 - **Master's Degree** | Department of Statistical Data Science, Yonsei University
 
-
 ---
 ## 💼 Experience
 ### 🏢 이노포스트 | 컨설팅사업본부 사원  
@@ -27,9 +26,19 @@
 📅 2023.11 ~ 2024.10 (11개월)  
 📍 **데이터 분석 & 악성댓글 비용 시뮬레이터 개발**  
 
-### 🏢 연세대학교 데이터사이언스 연구소
+### 🏢 연세대학교 데이터사이언스 연구소  
 📅 2023.09 ~ 2024.02 (6개월)  
 📍 **통계적 분석 기법을 활용한 의사결정 시스템 구축 지원**  
+
+---
+## 🛠️ Tech Stack (Tools I Use)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white">
+  <img src="https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white">
+</p>
 
 ---
 ## 🏆 Certifications
@@ -55,4 +64,16 @@
 ### 🚀 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hjuhyeok&show_icons=true&theme=dark)
 
-
+---
+## 📫 Contact Me
+<p align="center">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/hjuhyeok">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
+  </a>
+</p>
