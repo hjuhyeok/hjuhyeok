@@ -57,12 +57,13 @@
 ---
 ## 🛠️ Tech Stack (Tools I Use)
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white">
-  <img src="https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" height="40">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="40">
+  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" height="40">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="40">
 </p>
+
 ---
 ## 📫 Contact Me
 <p align="center">
