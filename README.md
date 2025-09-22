@@ -41,11 +41,19 @@
 - 📜 **SQL 개발자(SQLD)** - 한국데이터산업진흥원 (취득일: 2022.09.30)
 - 📜 **빅데이터 분석기사** - 한국데이터산업진흥원 (취득일: 2022.12.23)
 
+- 📜 **Toeic** - 785/990 (취득일: 2024.09.07)
+- 📜 **Intermediate High** (취득일: 2025.09.01)
+
+
+
 ---
 ## 🏆 Awards & Honors
 - 🏅 **우수상** - 한국평가데이터(KoDATA) (2022)
   - **공모전:** 천안시 데이터 기반 시각화 아이디어 공모전
   - **주제:** 천안시 교통사고 취약지역 도출 
+
+##  Paper
+- **주제:** ADBoost: Boosting with Tree-based Hybrid-sampling for Imbalanced Data
 
 ---
 ### 📊 Most Used Languages
